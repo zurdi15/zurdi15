@@ -1,4 +1,4 @@
-[![Zurdi15's GitHub stats](https://github-readme-stats.vercel.app/api?username=zurdi15&show_icons=true&theme=transparent&show=reviews,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+[![Zurdi15's GitHub stats](https://github-readme-stats.vercel.app/api?username=zurdi15&show_icons=true&theme=transparent&show=reviews,prs_merged&include_all_commits=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zurdi15/zurdi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
