@@ -91,10 +91,10 @@ mountains and forests or just getting lost in nature.
 ---
 
 <p align="center">
-  <a href="https://zurdi.dev">
+  <a href="https://zurdi.dev" style="text-decoration:none">
     <img src="https://img.shields.io/badge/zurdi.dev-000000?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://github.com/rommapp">
+  <a href="https://github.com/rommapp" style="text-decoration:none">
     <img src="https://img.shields.io/badge/@rommapp-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
