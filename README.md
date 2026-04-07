@@ -1,3 +1,20 @@
+### `> neofetch`
+
+```
+ _______     zurdi@github
+|_____  |    ─────────────────────
+     / /     OS       Open Source
+    / /      Shell    /bin/build
+   / /       Uptime   since 2017
+  / /____    Stars    9k+ across the ecosystem
+ |_______|   Forks    480+
+             Contribs 4,000+ to RomM alone
+```
+
+---
+
+### `> k describe dev/zurdi`
+
 ```yaml
 apiVersion: v1
 kind: Developer
@@ -60,21 +77,6 @@ mountains and forests or just getting lost in nature.
 </td>
 </tr>
 </table>
-
----
-
-### `> neofetch`
-
-```
- _______     zurdi@github
-|_____  |    ─────────────────────
-     / /     OS       Open Source
-    / /      Shell    /bin/build
-   / /       Uptime   since 2017
-  / /____    Stars    9k+ across the ecosystem
- |_______|   Forks    480+
-             Contribs 4,000+ to RomM alone
-```
 
 ---
 
