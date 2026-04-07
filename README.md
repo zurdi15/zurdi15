@@ -20,9 +20,14 @@ spec:
 
 ### `> whoami`
 
-Founder of [**RomM**](https://github.com/rommapp/romm): a beautiful, powerful, self-hosted rom manager and player. What started as a personal project has grown into an ecosystem to preserve your own gaming library.
+```
+Founder of The RomM Project: a beautiful, powerful, self-hosted rom manager
+and player. What started as a personal project has grown into an
+ecosystem to preserve your own gaming library.
 
-When not writing code, you'll find me flying FPV drones through mountains and forests or just getting lost in nature.
+When not writing code, you'll find me flying FPV drones through
+mountains and forests or just getting lost in nature.
+```
 
 <a href="https://github.com/rommapp/romm">
   <img src="https://img.shields.io/github/stars/rommapp/romm?style=for-the-badge&logo=github&label=romm&color=c9d1d9&labelColor=0d1117" />
